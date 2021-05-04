@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Nan 
+### 👋🏼 Hi there, I'm Nan 
 
-**I'm working on something new!**
+**I'm working on something new!** I also contribute to [Outline](https://github.com/outline)
 
-Previously
+_Previously I was..._
 - VP of Product at [Mode Analytics](https://mode.com/)
 - CTO at [Everlane](https://www.everlane.com/)
 - Eng. leader at [Abstract](https://www.abstract.com/)
