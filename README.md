@@ -1,8 +1,10 @@
 ### 👋🏼 Hi there, I'm Nan 
 
-**I'm working on something new!** I also contribute to [Outline](https://github.com/outline)
+I build products and lead teams. **I'm working on something new!** 
 
-_Previously I was..._
+I also contribute to [Outline](https://github.com/outline).
+
+_Previously I've been..._
 - VP of Product at [Mode Analytics](https://mode.com/)
 - CTO at [Everlane](https://www.everlane.com/)
 - Eng. leader at [Abstract](https://www.abstract.com/)
