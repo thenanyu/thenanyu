@@ -1,0 +1,20 @@
+# Source files
+src/
+tsconfig.json
+
+# Tests
+*.test.ts
+*.spec.ts
+
+# Environment
+.env
+.env.example
+
+# Credentials
+credentials/
+token.json
+
+# Development
+.git/
+.github/
+*.log
