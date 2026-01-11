@@ -1,0 +1,33 @@
+{
+  "name": "gmail-order-tracker",
+  "version": "1.0.0",
+  "description": "Automatically track e-commerce orders from Gmail to Google Sheets",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "watch": "tsc --watch",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "gmail",
+    "order-tracking",
+    "google-sheets",
+    "e-commerce"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.18.1",
+    "dotenv": "^16.4.1",
+    "googleapis": "^131.0.0",
+    "jsdom": "^23.2.0"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.6",
+    "@types/node": "^20.11.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
